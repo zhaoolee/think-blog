@@ -6,10 +6,9 @@ tag: 博客
 
 
 # Think Blog
-
 这是一篇长文, 目标是忽悠更多的人来写有趣的博客.
 
-为了为更多人提供帮助,  本文提到的很多内容，可以到[https://bbs.v2fy.com/c/think-blog/](https://bbs.v2fy.com/c/think-blog/) 发帖提问, 作者会第一时间回应, 为了让更多人看到本文, [正文在Github也会同步更新](https://github.com/zhaoolee/think-blog)
+本文提到的内容，可以到[https://bbs.v2fy.com/c/think-blog/](https://bbs.v2fy.com/c/think-blog/) 发帖提问, 作者会第一时间回应, 为了让更多人看到本文, [Github也会同步更新: https://github.com/zhaoolee/think-blog](https://github.com/zhaoolee/think-blog)
 
 ## 写博客有什么好处?
 
